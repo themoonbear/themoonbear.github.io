@@ -1,2 +1,2 @@
 # www
-moonbear web site
+Moonbear Studio web site
