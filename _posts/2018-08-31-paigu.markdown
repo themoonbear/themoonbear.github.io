@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "PaiGu 搜索"
+date:   2018-08-31 11:43:26 +0800
+author: D119
+categories: tech
+tags:
+      - 产品
+---
+
+比较百度和谷歌的搜索结果。访问地址：[PaiGu][paigu]
+
+## 特点
+
++ 无需翻墙
++ 屏蔽广告
++ 屏蔽推广
+
+[paigu]: http://paigu.moonbear.cn
