@@ -22,4 +22,8 @@ tags:
 + 屏蔽广告
 + 屏蔽推广
 
+## 快照
+
+![搜索结果]({{"/assets/paigu/screenshot.jpg" | absolute_url}})
+
 [paigu]: http://paigu.moonbear.cn
