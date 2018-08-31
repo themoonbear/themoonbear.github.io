@@ -5,7 +5,13 @@ date:   2018-08-31 11:43:26 +0800
 author: D119
 categories: tech
 tags:
-      - 产品
+      - go
+      - echo
+      - html
+      - css
+      - typescript
+      - vue
+      - iview
 ---
 
 比较百度和谷歌的搜索结果。访问地址：[PaiGu][paigu]
