@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "OBS 弹幕云插件"
+date:   2018-10-12 14:21:5126 +0800
+author: D119
+categories: tech
+tags:
+      - nuxt
+      - vuetify
+      - html
+      - css
+      - vue
+      - nodejs
+      - websocket
+---
+
+OBS 直播软件弹幕云插件。访问地址：[弹幕云插件][danmu]
+
+## 步骤
+
+1. 输入直播地址，由弹幕云插件生成新地址
+2. 在 OBS 场景中添加浏览器来源 
+3. 将浏览器来源地址设置为第一步生成地址即可
+
+## 快照
+
+![弹幕显示]({{"/assets/danmu/screenshot.jpg" | absolute_url}})
+
+[danmu]: https://danmu.moonbear.cn
