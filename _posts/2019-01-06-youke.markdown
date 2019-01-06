@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "有客门店管理小程序"
+date:   2019-01-06 18:53:26 +0800
+author: D119
+categories: tech
+tags:
+      - wepy
+      - 小程序
+      - html
+      - css
+---
+
+有客门店管理小程序（酒店住宿行业） 1.0.0 版
+
+## 技术实现
+
+使用wepy小程序框架开放，包含如下模块：
+
+1. 登陆/注册
+2. 门店管理
+3. 房型管理
+4. 店员管理
+5. 实时房态
+6. 订单管理
+7. 客户管理
+8. 系统消息
+
+
+## 快照
+
+![登录页面]({{"/assets/youke/m1.jpg" | absolute_url}})
+![店铺管理]({{"/assets/youke/m2.jpg" | absolute_url}})
+![首页页面]({{"/assets/youke/m3.jpg" | absolute_url}})
+![我的页面]({{"/assets/youke/m4.jpg" | absolute_url}})
