@@ -24,6 +24,8 @@ github_username:  themoonbear
 # analytics
 google_analytics: UA-37215193-2
 baidu_analytics: b191cbecb1f48c1efc01fd0f34194289
+# ad
+google_adsense: ca-pub-7068555926153671
 #
 show_excerpts: true 
 minima:
