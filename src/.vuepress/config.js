@@ -165,7 +165,7 @@ module.exports = {
       // 评论配置，参考下方 [页面评论] 章节
       comments: {
         owner: 'themoonbear',
-        repo: 'themoonbear.github.io',
+        repo: 'themoonbear/www',
         clientId: 'deda96b10a50fd36574a',
         clientSecret: '907a4fb9fdabef212e2f3ec3b14fe94856cd185e',
         autoCreateIssue: process.env.NODE_ENV !== 'development',
