@@ -6,7 +6,6 @@ date: 2019-05-23
 top: true
 title: Chinese Chess
 vssue-title: Chinese Chess
-vssue: false
 ---
 
 ## About the game
