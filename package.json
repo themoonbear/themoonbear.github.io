@@ -1,0 +1,15 @@
+{
+  "name": "moonbear.cn",
+  "version": "1.0.0",
+  "license": "MIT",  
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src --dest dist"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.48",
+    "vuepress": "^1.0.0-alpha.48",
+    "vuepress-theme-meteorlxy": "^1.0.0-alpha.36"
+  }
+}
