@@ -6,7 +6,7 @@ date: 2019-05-23
 top: true
 title: Chinese Chess
 vssue-title: Chinese Chess
-vssue: false
+vssue: true
 ---
 
 ## About the game
@@ -20,6 +20,10 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 + Ability to show possible moves.
 + Ability to share the result.
 + Ability to watch the game.
+
+## Deploy platform
+
++ [Facebook Web Game](https://apps.facebook.com/310531806528981)
 
 ## Snapshot
 
