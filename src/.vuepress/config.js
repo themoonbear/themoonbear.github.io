@@ -8,11 +8,11 @@ module.exports = {
     description: 'Moonbear Studio - Game Developer',
   
     // 网站语言
-    locales: {
-      '/': {
-        lang: 'zh-CN',
-      },
-    },
+    // locales: {
+    //   '/': {
+    //     lang: 'zh-CN',
+    //   },
+    // },
     //插件
     plugins: [
       [ 
@@ -20,7 +20,13 @@ module.exports = {
         {
           'ga': 'UA-37215193-2'
         }
-      ]  
+      ],
+      [ 
+        require('./plugins/baidutongji/index.js'),
+        {
+          'ba': 'b191cbecb1f48c1efc01fd0f34194289'
+        }
+      ]        
     ],
     // 使用的主题
     theme: 'meteorlxy',
@@ -28,10 +34,10 @@ module.exports = {
     // 主题配置
     themeConfig: {     
       // 主题语言，参考下方 [主题语言] 章节
-      // lang: require('vuepress-theme-meteorlxy/lib/langs/zh-CN'),
-
-      // comments: false,      
-  
+      lang: Object.assign(require('vuepress-theme-meteorlxy/lib/langs/en-US'), {
+        home: 'HOME',
+        posts: 'GAMES',
+      }),
       // 个人信息（没有或不想设置的，删掉对应字段即可）
       personalInfo: {
         // 昵称
@@ -153,12 +159,12 @@ module.exports = {
       },
   
       // 是否显示文章的最近更新时间
-      lastUpdated: true,
+      lastUpdated: false,
   
       // 顶部导航栏内容
       nav: [
         { text: 'Home', link: '/', exact: true },
-        { text: 'Game', link: '/posts/', exact: false },
+        { text: 'Games', link: '/posts/', exact: false },
         { text: 'Services', link: '/other/services.html'},
         { text: 'Terms of Service', link: '/other/terms_of_service.html'},
         { text: 'Privacy Policy', link: '/other/privacy_policy.html'}

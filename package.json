@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "NODE_ENV=production vuepress build src --dest public",
-    "deploy": "firebase deploy"
+    "deploy": "yarn build && firebase deploy"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.48",

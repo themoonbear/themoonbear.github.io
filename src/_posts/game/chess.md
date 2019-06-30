@@ -9,9 +9,11 @@ vssue-title: Chinese Chess
 vssue: true
 ---
 
-## About the game
+![banner](/assets/chess/banner.jpg)
 
 Chinese Chess is the Chinese traditional board game. You can invite your friends to play together or watch them play.
+
+<!-- more -->
 
 ## Features
 
@@ -42,4 +44,4 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 
 ## Buy the source code
 
-+ CLIENT ($299) [PayPal](https://paypal.me/d119)
++ CLIENT ($299)
