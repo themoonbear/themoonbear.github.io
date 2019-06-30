@@ -16,16 +16,29 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 ## Features
 
 + Ability to invite friends.
-+ Ability to request the draw or resign.
++ Ability to request the draw, pull back and resign.
 + Ability to show possible moves.
-+ Ability to share the result.
 + Ability to watch the game.
 
 ## Deploy platform
 
-+ [Facebook Web Game](https://apps.facebook.com/310531806528981)
++ [Facebook Web Game](https://apps.facebook.com/456525235150360)
 
 ## Snapshot
 
-!["opening"](/assets/chess/chess1.jpg)
-!["playing"](/assets/chess/chess2.jpg)
+![1](/assets/chess/chess1.jpg)
+![2](/assets/chess/chess2.jpg)
+![3](/assets/chess/chess2.jpg)
+
+## Technology
+
++ Unity Game Engine
++ Golang
++ Firebase
++ Redis
++ Consul
++ Docker
+
+## Buy the source code
+
++ CLIENT [![paypal](/assets/img/paypal.png)](https://paypal.me/d119)
