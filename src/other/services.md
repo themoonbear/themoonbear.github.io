@@ -17,8 +17,6 @@ We started to work on client game projects as a client companies remote worker o
 
 We sell our game projects to customers who interested to buy and reuse it. It will save development time for them while they have same idea of their game.
 
----
-
 ## Technology
 
 + Unity Game Engine

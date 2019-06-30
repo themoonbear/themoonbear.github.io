@@ -159,7 +159,7 @@ module.exports = {
       nav: [
         { text: 'Home', link: '/', exact: true },
         { text: 'Game', link: '/posts/', exact: false },
-        { text: 'Services', link: '/services.html'},
+        { text: 'Services', link: '/other/services.html'},
         { text: 'Terms of Service', link: '/other/terms_of_service.html'},
         { text: 'Privacy Policy', link: '/other/privacy_policy.html'}
       ],
