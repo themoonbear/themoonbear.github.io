@@ -3,7 +3,6 @@ category: game
 tags:
   - game
 date: 2019-05-23
-top: true
 title: Chinese Chess
 vssue-title: Chinese Chess
 vssue: true
@@ -44,4 +43,4 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 
 ## Buy the source code
 
-+ CLIENT ($299)
++ CLIENT ($295)
