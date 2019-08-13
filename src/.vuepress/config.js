@@ -36,7 +36,6 @@ module.exports = {
       // 主题语言，参考下方 [主题语言] 章节
       lang: Object.assign(require('vuepress-theme-meteorlxy/lib/langs/en-US'), {
         home: 'HOME',
-        posts: 'GAMES',
       }),
       // 个人信息（没有或不想设置的，删掉对应字段即可）
       personalInfo: {
@@ -165,9 +164,9 @@ module.exports = {
       nav: [
         { text: 'Home', link: '/', exact: true },
         { text: 'Games', link: '/posts/', exact: false },
-        { text: 'Services', link: '/other/services.html'},
-        { text: 'Terms of Service', link: '/other/terms_of_service.html'},
-        { text: 'Privacy Policy', link: '/other/privacy_policy.html'}
+        { text: 'Services', link: '/other/services.html'}
+        // { text: 'Terms of Service', link: '/other/terms_of_service.html'},
+        // { text: 'Privacy Policy', link: '/other/privacy_policy.html'}
       ],
       // 评论配置，参考下方 [页面评论] 章节
       comments: {

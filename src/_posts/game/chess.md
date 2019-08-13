@@ -8,7 +8,7 @@ vssue-title: Chinese Chess
 vssue: true
 ---
 
-![banner](/assets/chess/banner.jpg)
+![banner](https://github.com/themoonbear/www/blob/master/assets/chess/banner.jpg)
 
 Chinese Chess is the Chinese traditional board game. You can invite your friends to play together or watch them play.
 
@@ -23,10 +23,10 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 
 ## Snapshot
 
-![1](/assets/chess/chess1.jpg)
-![2](/assets/chess/chess2.jpg)
-![3](/assets/chess/chess3.jpg)
-![4](/assets/chess/chess4.jpg)
+![1](https://github.com/themoonbear/www/blob/master/assets/chess/chess1.jpg)
+![2](https://github.com/themoonbear/www/blob/master/assets/chess/chess2.jpg)
+![3](https://github.com/themoonbear/www/blob/master/assets/chess/chess3.jpg)
+![4](https://github.com/themoonbear/www/blob/master/assets/chess/chess4.jpg)
 
 ## Technology
 
@@ -41,6 +41,6 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 
 + [Facebook Web Game](https://apps.facebook.com/456525235150360)
 
-## Buy the source code
+## Sell source code
 
 + CLIENT ($295)

@@ -8,7 +8,7 @@ vssue-title: Number Maze
 vssue: true
 ---
 
-![banner](/assets/numbermaze/banner.jpg)
+![banner](https://github.com/themoonbear/www/blob/master/assets/numbermaze/banner.jpg)
 
 Number Maze is a very intellectual game with many levels. The game has eight different levels and the difficulty is increased step by step. Record the time spent and the number of moving steps in the game. You can move the same number of rows or columns at a time to reduce the number of moves.
 
@@ -16,8 +16,8 @@ Number Maze is a very intellectual game with many levels. The game has eight dif
 
 ## Snapshot
 
-![1](/assets/numbermaze/1.jpg)
-![2](/assets/numbermaze/2.jpg)
+![1](https://github.com/themoonbear/www/blob/master/assets/numbermaze/1.jpg)
+![2](https://github.com/themoonbear/www/blob/master/assets/numbermaze/2.jpg)
 
 ## Technology
 
@@ -32,6 +32,6 @@ Number Maze is a very intellectual game with many levels. The game has eight dif
 
 + [Facebook Web Game](https://apps.facebook.com/1054740734714750)
 
-## Buy the source code
+## Sell source code
 
 + CLIENT ($195)
