@@ -14,6 +14,10 @@ Number Maze is a very intellectual game with many levels. The game has eight dif
 
 <!-- more -->
 
+## Sample Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXJXSoB-03I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Snapshot
 
 ![1](https://github.com/themoonbear/www/raw/master/assets/numbermaze/1.jpg)
