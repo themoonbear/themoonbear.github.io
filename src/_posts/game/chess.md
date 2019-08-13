@@ -14,6 +14,10 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 
 <!-- more -->
 
+## Sample Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b6LY3L12eqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Features
 
 + Ability to invite friends.
