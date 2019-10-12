@@ -47,4 +47,4 @@ Chinese Chess is the Chinese traditional board game. You can invite your friends
 
 ## Sell source code
 
-+ CLIENT ($295)
++ CLIENT ($45)

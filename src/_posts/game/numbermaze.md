@@ -38,4 +38,4 @@ Number Maze is a very intellectual game with many levels. The game has eight dif
 
 ## Sell source code
 
-+ CLIENT ($195)
++ CLIENT ($35)
