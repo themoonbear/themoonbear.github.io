@@ -3,7 +3,7 @@ category: blender
 tags:
   - video
   - blender
-date: 2020-01-16
+date: 2020-01-15
 title: Blender Exercises - 3
 vssue-title: Blender Exercises
 vssue: true
