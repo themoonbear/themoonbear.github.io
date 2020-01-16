@@ -163,7 +163,7 @@ module.exports = {
       // 顶部导航栏内容
       nav: [
         { text: 'Home', link: '/', exact: true },
-        { text: 'Games', link: '/posts/', exact: false },
+        { text: 'Posts', link: '/posts/', exact: false },
         { text: 'Services', link: '/other/services.html'}
         // { text: 'Terms of Service', link: '/other/terms_of_service.html'},
         // { text: 'Privacy Policy', link: '/other/privacy_policy.html'}
