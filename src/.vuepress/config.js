@@ -22,9 +22,15 @@ module.exports = {
         }
       ],
       [ 
-        require('./plugins/baidutongji/index.js'),
+        require('./plugins/baidutongji/index'),
         {
           'ba': 'b191cbecb1f48c1efc01fd0f34194289'
+        }
+      ],
+      [
+        require('./plugins/ads/index'),
+        {
+          'ad': 'ca-pub-7068555926153671'
         }
       ]        
     ],
