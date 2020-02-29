@@ -8,7 +8,7 @@ vssue-title: AYO OLOPON
 vssue: true
 ---
 
-![banner](https://github.com/themoonbear/www/raw/master/assets/ayo/banner.png)
+![banner](https://github.com/themoonbear/www/raw/master/assets/ayo/banner.jpg)
 
 Ayo is a traditional mancala played by the Yoruba people in Nigeria. It is very close to the Oware game that spread to the Americas with the atlantic slave trade. Among modern mancalas, which are most often derived from Warri, the Kalah is a notable one that has essentially the same rules as Ayo.
 
@@ -28,10 +28,10 @@ Ayo is a traditional mancala played by the Yoruba people in Nigeria. It is very 
 
 ## Snapshot
 
-![1](https://github.com/themoonbear/www/raw/master/assets/ayo/1.png)
-![2](https://github.com/themoonbear/www/raw/master/assets/ayo/2.png)
-![3](https://github.com/themoonbear/www/raw/master/assets/ayo/3.png)
-![4](https://github.com/themoonbear/www/raw/master/assets/ayo/4.png)
+![1](https://github.com/themoonbear/www/raw/master/assets/ayo/1.jpg)
+![2](https://github.com/themoonbear/www/raw/master/assets/ayo/2.jpg)
+![3](https://github.com/themoonbear/www/raw/master/assets/ayo/3.jpg)
+![4](https://github.com/themoonbear/www/raw/master/assets/ayo/4.jpg)
 
 ## Technology
 
