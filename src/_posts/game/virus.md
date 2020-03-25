@@ -2,7 +2,7 @@
 category: game
 tags:
   - game
-date: 2020-02-29
+date: 2020-03-25
 title: VIRUS COME
 vssue-title: VIRUS COME
 vssue: true
